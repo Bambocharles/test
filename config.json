@@ -1,0 +1,14 @@
+{
+"host":"scalenlnak.fenixoutdoor.se/",
+"logconfig": {
+"level": "2",
+"serverLogLevel" : "5",
+"deviceName": "MC3300"
+},
+"successSound":{
+"enabled":true
+},
+"errorSound":{
+"enabled":true
+}
+}
